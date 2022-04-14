@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>老麦笔记</title><link>https://iamlm.com/</link><description>Recent content on 老麦笔记</description><language>zh-cn</language><lastBuildDate>Mon, 04 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://iamlm.com/index.xml" rel="self" type="application/rss+xml"/><item><title>今日</title><link>https://iamlm.com/archives/today/</link><pubDate>Mon, 04 Apr 2022 00:00:00 +0000</pubDate><guid>https://iamlm.com/archives/today/</guid><description>&lt;h3 id="今日之花语-鸢尾蝶">今日之花语 //「鸢尾蝶」&lt;/h3>
+&lt;p>神女花都鸢尾秀，圣灵皇室鸽翎涵。&lt;/p>
+&lt;h3 id="今日之心情-自作孽啊">今日之心情 //「自作孽啊」&lt;/h3>
+&lt;p>家里的群晖自从将系统升级到DSM7后就从未让我省过心，套件中心经常假死，打开DSM页面右下角的系统状况经常显示不了地址IP，只要一出现这样的情况系统就会有各种各样的问题，比如DS file连接不上、Synology Photos备份不了照片等等一套堆问题，重启也不能解决问题，只能硬关机后再开机才能解决问题。问同样将系统升级到DSM7的阿粉有没有这样的问题，他却说没有这样的困扰，用着还行。但不知为啥一到我这就出现这样那样的问题，都是白群，配置我的还略高，我也没有使用一些乱七八糟的功能。&lt;/p>
+&lt;p>心里挣扎了很长一段时间，要不要将系统降回到6.2，老实说，实在是有点难以忍受这个DSM7了。以前只要不主动关机和重启，它都会在角落里稳定地输出。现在，不用三天就要关机然后重新开机，太搞了。&lt;/p>
+&lt;p>趁这几天放假，决定折腾一下，将一些重要的资料拉到移动硬盘上后开始折腾回降系统。以为万无一失了，可最后还是出了问题，漏了两个文件夹没有备份。其实正常回降也不会丢失资料的，按照网上的教程一步步操作，我成功的将系统回降到6.2.4-25556，资料什么的都还在，高兴极了。也许就是这份喜悦把我冲晕了头，脑子一热又重装了系统，现在回想起来自己都不知道当时会有这样的操作，真是傻X啊。硬盘上的影音库没了就罢了，还将漏掉备份的两个文件夹也弄没了。真是活该啊~&lt;/p>
+&lt;h3 id="今日之无奈-原来如此">今日之无奈 //「原来如此」&lt;/h3>
+&lt;p>收拾好糟糕的心情出去找约好的同村兄弟，聊了一会就散了，都是一些关于明天回乡祭祖的事情。开始我很不明白为什么他强烈要求见面谈，毕竟这些事情明明可以电话里说的，可散时才多多少少有点明白他的用意，原来今年他买了新车——大奔驰。应该是我小人之心了吧。&lt;/p>
+&lt;h3 id="今日之动手-键盘清洁">今日之动手 //「键盘清洁」&lt;/h3>
+&lt;p>一个烟鬼的电脑桌是真的脏啊，平时自己已经经常收拾了，可时间久了后，键盘里还是脏到让我忍受不了的程度。在拼夕夕花了15.9元买了套键盘清洁套装，有一说一，套装里的东西是真的全啊，毕竟明码标着十三件套。&lt;/p>
+&lt;div class="gallery caption-position-bottom caption-effect-slide hover-effect-slideup hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+&lt;link rel="stylesheet" href="https://iamlm.com/scss/hugo-easy-gallery.min.css" />
+&lt;div class="box">
+&lt;figure itemprop="associatedMedia"
+itemscope itemtype="http://schema.org/ImageObject" >
+&lt;div class="img" style="background-image: url('IMG_20220404_232249-1920-thumb.jpg');">
+&lt;img loading='lazy' itemprop="thumbnail" src="IMG_20220404_232249-1920-thumb.jpg" />
+&lt;/div>
+&lt;a href="IMG_20220404_232249-1920.jpg" itemprop="contentUrl">&lt;/a>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box">
+&lt;figure itemprop="associatedMedia"
+itemscope itemtype="http://schema.org/ImageObject" >
+&lt;div class="img" style="background-image: url('IMG_20220404_234742-1920-thumb.jpg');">
+&lt;img loading='lazy' itemprop="thumbnail" src="IMG_20220404_234742-1920-thumb.jpg" />
+&lt;/div>
+&lt;a href="IMG_20220404_234742-1920.jpg" itemprop="contentUrl">&lt;/a>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box">
+&lt;figure itemprop="associatedMedia"
+itemscope itemtype="http://schema.org/ImageObject" >
+&lt;div class="img" style="background-image: url('IMG_20220404_224338-1920-thumb.jpg');">
+&lt;img loading='lazy' itemprop="thumbnail" src="IMG_20220404_224338-1920-thumb.jpg" />
+&lt;/div>
+&lt;a href="IMG_20220404_224338-1920.jpg" itemprop="contentUrl">&lt;/a>
+&lt;/figure>
+&lt;/div>
+&lt;/div>
+&lt;p>清洁效果也就这样了，这个软胶挺好用的，基本上全靠它。以后键盘要再次清洁的话买它就够了，当然前提你得有拔键帽的工具，其他刷子什么的用棉签就好。&lt;/p>
+&lt;h3 id="今日之吐槽-两极分化">今日之吐槽 //「两极分化」&lt;/h3>
+&lt;p>最近我换了新手机，身边有个同事就一直拿这个事来说，“咋不换13香啊？这国产的手机能用吗？这是什么牌子？红米？这不是老人手机来的吗？”说完掏出他的苹果13破麦斯，“这才是手机！”……&lt;/p>
+&lt;p>这时另一位同事就问他，“我一直有个疑问，你平时一不玩游戏二不爱拍照，买这么好的手机就不觉得浪费？”&lt;/p>
+&lt;p>“不会啊，电子产品嘛，要么不买，买就必须拉满。功能我可以不用，但不能没有。要不然多没面子，丢人啊！”&lt;/p>
+&lt;p>有时候真想给他来一大嘴巴子，但无奈别人家里是真的有钱，自己也只好无奈的一笑置之。我不讨厌他，他的想法其实我也是能理解的，要是自己像他一样有钱的话，我相信我也会像他那样「必须拉满」。&lt;/p>
+&lt;p>现在两极分化真的很严重，就拿配电脑来说，有很多很多人配的电脑其实根本就不是他需要的配置，太高了。还有很多人呢，他对配置需求其实是挺高的，但是往往这样的人又没有钱。&lt;/p>
+&lt;p>又比如前阵子同事见我玩Switch，也闹着跟风买一个，有这个想法的同事有两个，一个是十三香的这位，另一个是刚毕业不久的小伙子，小伙买前向我了解各种事项，比如哪款主机适合自己、老任会员、游戏卡带等等，总之就是想尽办法去省，最终买了Switch Lite，主机回来就向我要了账号绑到他的主机上，这样我买的游戏他也能玩。而十三香这位则是直接拉满，Switch Oled加几个老任的第一方游戏卡带。它喵的，游戏卡带的钱都比游戏主机贵了。然而十三香的Switch从买回来开始算第三天就开始吃灰了，他的游戏卡带便宜了我和刚毕业不久的小伙子。哈哈哈~&lt;/p>
+&lt;h3 id="今日之趣闻-我佛不渡穷逼">今日之趣闻 //「我佛不渡穷逼」&lt;/h3>
+&lt;p>晚饭时和老婆聊了下明天回乡祭祖的事，结果饭后我一打开抖音就刷到一个关于这方面的视频。我去，这么恐怖的吗？吓得我赶紧点了根烟压惊，上网查了一下，原来知乎上早已有很多人发出这样的质疑。&lt;/p>
+&lt;p>说回抖音上这个视频，真他喵的生动。两个小伙准备第二天一大早去庙里烧香拜佛，小伙1说，“明天去烧的香我替你买了。”小伙2奇怪的问，“香明天到庙里买不就行了？”小伙1又说，“寺庙里的香早晨可贵了。”小伙2一听崩出一句，“我C，佛祖不渡穷逼啊！”&lt;/p>
+&lt;p>我看完视频觉得很有意思，又接着在网上搜了一下关键字，原来「我佛不渡穷逼」这个梗几年前就有了，始于滇津喇嘛版本的《大悲咒》。&lt;/p>
+&lt;p>看来这个社会，没钱就是原罪。向前看？向钱看。&lt;/p></description></item><item><title>「收藏」最精彩的营销骗局之钻石篇</title><link>https://iamlm.com/archives/the-diamond-marketing-scam/</link><pubDate>Sat, 26 Mar 2022 00:00:00 +0000</pubDate><guid>https://iamlm.com/archives/the-diamond-marketing-scam/</guid><description>&lt;p>“钻石恒久远，一颗永流传。”伴随着这句经典的广告词，钻石开始正式走入大中视野。&lt;/p>
+&lt;p>可是和碳有着相同分子的钻石真的会恒久远吗，它到底存在着什么样的价值呢？&lt;/p>
+&lt;p>其实“钻石”早被誉为二十世纪最精彩的营销骗局，它提供了现代营销史上教科书般的经典案例：商品服务消费者只是一种低端的理念，商品教育消费者才是最高的成就。&lt;/p>
+&lt;p>钻石发现的最初只是一般的宝石，因为其量少而更加稀有，价格也比一般宝石高。然而， 1870年南非Orange River发现了巨大的钻石矿，产量可以用吨计。一夜之间，市场上充斥了钻石。这一下，钻石投资者彻底慌了，如果这么多钻石流入市场，极有可能造成钻石价格的彻底崩溃，这将是他们无法想象的。&lt;/p>
+&lt;p>就在此时，一个叫罗兹的英国商人在1988年创建了大名鼎鼎的戴比尔斯公司，从此钻石营销拉开了它的世纪大幕。&lt;/p>
+&lt;p>戴比尔斯先是买下了整个钻石矿，控制着钻石在市场上的数量，维持公众对钻石稀缺的印象。&lt;/p>
+&lt;p>可是他还是面临着一个巨大的问题，如果买了钻石的人要出售掉，钻石的价格体系也会崩溃，所以要想稳定价格除了让别人买，还得不让他卖钻石。但是，这真的可能吗？&lt;/p>
+&lt;p>可戴比尔斯偏偏就做到了，他花费了巨额的广告费用开始打造所谓的钻石文化。通过各种铺天盖地的广告让人们接受坚硬的钻石象征的正是忠贞不渝的爱情。&lt;/p>
+&lt;p>1950年，戴比尔斯更提出了那经典的广告语，“A DIAMOND IS FOREVER”,钻石恒久远，一颗永流传。通过这个营销，戴尔比斯一石三鸟。&lt;/p>
+&lt;ol>
+&lt;li>男人都认为只有更大更美的钻石才能表达最强烈的爱意，恋爱中的男人为了女人什么事都做的出来，买钻石比送命门槛低得多。&lt;/li>
+&lt;li>女人都认为钻石是求爱的必需，你连钻石都不舍得买，你还好意思说你爱我，什么，你以为我看中的是钻石，我看中的是你舍不舍得！&lt;/li>
+&lt;li>钻石都代表着永恒的爱情，拿来出售简直是对神圣爱情的最大亵渎。除非你跟前夫不共戴天，否则很少会卖掉他给你的钻戒，而且就算卖，也不会有人接手，因为那是你的爱情，而不是我的。&lt;/li>
+&lt;/ol>
+&lt;p>很显然，戴比尔斯获得了巨大的成功。虽然钻石的数量很多，但市场上还是供不应求，价格也依然扶摇直上，因为只有戴比尔斯才可以卖钻石。&lt;/p>
+&lt;p>这样的营销模式的确成功了，但当前苏联发现一座更大的钻石矿，大量碎钻供应于世面，戴比尔斯再次精化营销方案。&lt;/p>
+&lt;p>为了不让钻石掉身价，营销广告顺势转向，强调碎钻一样高贵，钻石虽小依然代表高贵的爱情。钻石的珍贵不是看大小，而是看做工和切面，于是又炮制了大量行业的标准，就这样，钻石也彻底征服了底层阶级，大的好的卖给富人，碎的小的卖给穷人。&lt;/p>
+&lt;p>与此同时，戴比尔斯做了一个客户倾向性调研，发现钻石作为礼物包含了很强的惊喜因素。男人赠送女人钻石礼物时，有一半情况下女方没有事先参与挑选购买或者事先不知道，女人普遍希望收到礼物时有惊喜感，有被电到的感觉。&lt;/p>
+&lt;p>尽管她们认为接受钻石礼物有不妥之处，但依然遏制不住想要得到它们的原始冲动，戴比尔斯利用了这种矛盾的心理。一个男人默默买了钻戒，在一个精心安排的场合突然送出，就最大程度的化解了这种矛盾，一方面她们拥有钻戒带来的极度喜悦，一方面又保持了女人的纯真。&lt;/p>
+&lt;p>如今，钻石已经绑架了它的消费者，因为到今天，女人们看中的早要不是钻石本身，而是更看重的是你宁愿花掉好几个月的工资差点年纪轻轻就过劳死而为她换来的一件爱情的象征。&lt;/p>
+&lt;p>难怪有人说，把所有营销学的书籍看完都不如完全理解戴比尔斯钻石营销的案例带来的收获大。消费者是需要培养的吗？完全不是，消费者是需要教育的，现在炒到这个价格，是因为戴比尔斯等最上游对行业的绝对控制。&lt;/p>
+&lt;p>尽管我们知道了钻石的荒谬但还是依然会买，这恐怕才是戴比尔斯真正的成功吧！&lt;/p>
+&lt;blockquote>
+&lt;p>内容收集于互联网。&lt;/p>
+&lt;/blockquote></description></item><item><title>中了杯「柠」</title><link>https://iamlm.com/archives/lemon-tea/</link><pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate><guid>https://iamlm.com/archives/lemon-tea/</guid><description>&lt;p>早上搬完办公室，整个人都累趴了，太久没干粗活的必然结果。平时运动又少，妥妥的亚健康状态。一直以来都觉得自己的办公室里没什么东西，换办公室肯定会很轻松的，本子一拿，茶水杯一收拾就完事了。万万没想到一收拾起来却花了一个上午才搬迁完成，主要是没想到连办公桌都要搬，如果只搬自己的还行吧，可办公室里那些女同事哪肯放过使唤我们男同胞的机会。什么脏活累活都抛了过来，还一边在旁指点江山，下午可能心里有愧吧，直接安排好下午茶。因此下午新办公室里总传出一片又一片欢乐的大笑声~某位女同事还把我们几个拉进了一个红包群，是一家柠檬茶店建的群，每天都会在下午三点时发一个红包出来让顾客们抢，定一个规则，例如尾数9或者手气最佳与最差，中了就可以免费来一杯店里的饮品。&lt;/p>
+&lt;p>我下午两点五十八分进的群，群主三点准时发了红包，我随意一点，结果就中了。虽然只是中了杯柠檬茶，但也十分的开心，因为第一次觉得自己走运，以前买彩票中三等奖也没如此的开心，可能是因为意料之外吧，因为三百多号人的群，一个红包十五份，基本三到五秒就被抢完了。&lt;/p>
+&lt;p>希望借这次中奖能一扫前段时间我在基金上的颓废。&lt;/p></description></item><item><title>「三月」不适应</title><link>https://iamlm.com/archives/not-fit/</link><pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate><guid>https://iamlm.com/archives/not-fit/</guid><description>&lt;p>喜欢的三月如约而至，但今年的三月估计不会轻松。&lt;/p>
+&lt;p>首先是工作方面，今年年底工作会有大变动，上级为了大家提前进入状态，现在已经开始进行了很多小改革。随之而来的就是大伙各种不适应，尤其是一些老家伙（包括自己）。还好现在任务不重，算是有段适应期给我们。&lt;/p>
+&lt;p>其次就是健康问题，2022年已然过去了两个月，这段时间里家里人被各种病痛困扰。尤其是家里93岁的老奶奶春节前跌了一跤导致腿骨断了，一直卧床不起。高龄老人一旦倒下就会引发了各种并发症，因为老人家愈合能力太差了。这次奶奶人一会就瘦了一大圈，本来已经进入萎缩状态的奶奶现在只剩下皮包骨了，看着特心酸。一开始家里请了护工照料奶奶，后来二叔嫌弃护工照料不周就撤了，改由他们三兄弟轮流照看，可能为此彼此多了交流吧，间接解开了他们兄弟间多年的隔阂。&lt;/p>
+&lt;p>最后说一下游戏方面吧，2022年是游戏大年，所以对于爱玩游戏的我注定是幸福的一年。我都还没玩通《地平线 西部禁地》，《艾尔登法环》又来了。本来游戏时间越来越少的我表示实在肝不动了，所以这次老头环我就成功的卡在第一个BOSS，被虐死几十次后我毅然选择先放一放。再次被宫崎老贼搞了一波心态，瞬间感觉自己又老了十年。也罢，间接多了一点点时间陪伴孩子。&lt;/p>
+&lt;p>现在聊得最多的俄乌问题，我关注得很少，总感觉这些世界性问题身为平民百姓的我只需了解个大概就好，至于为啥起的战争，报道的媒体太多，实在是太杂了，懒得自己去分析，所以对此我就只有一个愿望，愿世界和平。&lt;/p></description></item><item><title>「毛毛」生日快乐</title><link>https://iamlm.com/archives/maomao-5-birthday/</link><pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate><guid>https://iamlm.com/archives/maomao-5-birthday/</guid><description>&lt;p>愿，&lt;/p>
+&lt;p>所有快乐，无需假装。&lt;/p>
+&lt;p>此生尽兴，赤诚善良。&lt;/p>
+&lt;p>吾儿五岁生日快乐。&lt;/p>
+&lt;div class="gallery caption-position-bottom caption-effect-slide hover-effect-slideup hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+&lt;link rel="stylesheet" href="https://iamlm.com/scss/hugo-easy-gallery.min.css" />
+&lt;div class="box">
+&lt;figure itemprop="associatedMedia"
+itemscope itemtype="http://schema.org/ImageObject" >
+&lt;div class="img" style="background-image: url('mmexport1642931483132-thumb.jpg');">
+&lt;img loading='lazy' itemprop="thumbnail" src="mmexport1642931483132-thumb.jpg" />
+&lt;/div>
+&lt;a href="mmexport1642931483132.jpg" itemprop="contentUrl">&lt;/a>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box">
+&lt;figure itemprop="associatedMedia"
+itemscope itemtype="http://schema.org/ImageObject" >
+&lt;div class="img" style="background-image: url('mmexport1642931502995-thumb.jpg');">
+&lt;img loading='lazy' itemprop="thumbnail" src="mmexport1642931502995-thumb.jpg" />
+&lt;/div>
+&lt;a href="mmexport1642931502995.jpg" itemprop="contentUrl">&lt;/a>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box">
+&lt;figure itemprop="associatedMedia"
+itemscope itemtype="http://schema.org/ImageObject" >
+&lt;div class="img" style="background-image: url('mmexport1642931500449-thumb.jpg');">
+&lt;img loading='lazy' itemprop="thumbnail" src="mmexport1642931500449-thumb.jpg" />
+&lt;/div>
+&lt;a href="mmexport1642931500449.jpg" itemprop="contentUrl">&lt;/a>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box">
+&lt;figure itemprop="associatedMedia"
+itemscope itemtype="http://schema.org/ImageObject" >
+&lt;div class="img" style="background-image: url('mmexport1642931508221-thumb.jpg');">
+&lt;img loading='lazy' itemprop="thumbnail" src="mmexport1642931508221-thumb.jpg" />
+&lt;/div>
+&lt;a href="mmexport1642931508221.jpg" itemprop="contentUrl">&lt;/a>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box">
+&lt;figure itemprop="associatedMedia"
+itemscope itemtype="http://schema.org/ImageObject" >
+&lt;div class="img" style="background-image: url('mmexport1642931505658-thumb.jpg');">
+&lt;img loading='lazy' itemprop="thumbnail" src="mmexport1642931505658-thumb.jpg" />
+&lt;/div>
+&lt;a href="mmexport1642931505658.jpg" itemprop="contentUrl">&lt;/a>
+&lt;/figure>
+&lt;/div>
+&lt;/div></description></item><item><title>年末近况</title><link>https://iamlm.com/archives/year-end-recent/</link><pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate><guid>https://iamlm.com/archives/year-end-recent/</guid><description>&lt;p>不知不觉的又长草了一个月，是时候回来拔下草了。&lt;/p>
+&lt;h3 id="创文迎检">创文迎检&lt;/h3>
+&lt;p>第7年了，每年的年末都来这么一波大考，说真的，这7年下来，我人已经麻木了。迎检时早上7点到岗，然后就是直落到晚上21点，领导疯狂给大伙打鸡血，同事们也都十分积极，微信运动被同事各种霸榜，我简单算了下，这些天几乎每人都有十二万步以上，有一个同事甚至到达了疯狂的每天五万步，我也是醉了。&lt;/p>
+&lt;p>鸡血过后竟然是哀嚎遍野？往年领导见大伙加班加点很辛苦，都会事后补足假期让大家在不影响日常工作的情况下轮流休息，今年倒好，新任领导直接只给大伙一天补休假期。唉，这也太打击大伙的积极性了吧？&lt;/p>
+&lt;h3 id="酒席扎堆">酒席扎堆&lt;/h3>
+&lt;p>年末了，各种聚会、喜酒都慢慢开始了。这个月就喝了四次，表弟新婚之喜、兄弟乔迁之喜、堂弟弄瓦之喜，还有一次则是同学聚会。老实说，这次同学聚会办得有点草率，有几个不在当地的同学没有参加，我也很纳闷为什么班长会选择在这个时间段搞这么一次聚会，毕竟在外打拼的同学还是有的，都还没有放假呢。不过后来听班长说了下，其实这么多年那些在外的同学都没有参加过的。&lt;/p>
+&lt;h3 id="佩佩住院">佩佩住院&lt;/h3>
+&lt;p>21号晚上佩佩开始高烧，和往常不一样，吃美林也不见有很好的效果，我和老婆都觉得情况不对，所以第二天一早就决定送她去医院，因为疫情的关系，发热患者必须到发热门诊就医，且要先验核酸再看病，清远妇幼这个发热门诊地方太小了，小小一块地方逼满了人，说句难听的就是连呼吸都困难，真是没病都会憋出病来。不管三七二十一，各种验。不过非常时期嘛，实在也是没办法的，好在大家都是很遵守纪律的，不会出现这样那样的问题。&lt;/p>
+&lt;p>流感报告一出来，老婆一看是乙型流感，开始各种咨询，问同事问以前的同学。这次佩佩的情况还是比较严重的，虽然就医时吃了药也不发烧了，精神还十分好，但医生还是建议我们住院几天，再做一些详细的检验。医生说，据以往的经验，佩佩的这种情况一到晚上就会复发。果不其然，22号晚上的时候佩佩又开始反反复复地发烧，好在听了医生的建议，住院安心点，有什么情况都方便照顾。&lt;/p>
+&lt;p>今天中午和佩佩视频通话，小妮子精神很不错，可能是知道自己明天中午就可以出院的原因吧。&lt;/p>
+&lt;h3 id="更换滤芯">更换滤芯&lt;/h3>
+&lt;p>今年一次性换了四根滤芯，一开始还蛮顺利，结果换完之后就开不了机咯，上一年过来帮我换滤芯的那个师傅也是一样的情况，不过一顿折腾后机器又点亮了，我就没多管了，反正那机器一年只动那么一回。可这次师傅折腾了很久也不行，最后回车上拿了个万能表出来测，原来那个电源适配器坏掉了，也真够神奇的，换滤芯前机器还开着机的，换好滤芯后就直接回不去了，咨询师傅换一个要多少钱，结果师傅说出一个让我惊掉下巴的价格，200多，我的天，我记忆中这破东西最多也就几十块钱吧。上淘宝一搜，一模一样的才74块钱，决定直接在网上下单算了，安吉尔这定价也太坑人了吧。&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;input disabled="" type="checkbox"> RO反渗透膜 24-36个月&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;input checked="" disabled="" type="checkbox"> 折叠PP 6-12个月&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;input checked="" disabled="" type="checkbox"> 活性炭 6-12个月&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;input checked="" disabled="" type="checkbox"> US复合滤芯 6-18个月&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;input checked="" disabled="" type="checkbox"> UF超滤膜 12-24个月&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>打勾的为已更换，明年需更换RO反渗透膜、折叠PP、活性炭和US复合滤芯。&lt;/p>
+&lt;h3 id="快乐游戏">快乐游戏&lt;/h3>
+&lt;p>国庆前玩了三国志14，又勾起了我玩游戏的乐趣。后来直接入手了一台次世代主机，微软和索尼两者间我先选择了前者，原因很简单，XGP太吸引我了。至于PS5，等出pro版本再入手，反正PS5现在的独占也就那么一点点，不够吸引。说回Xbox Series X，配合130元三年的XGPU，还要什么自行车啊。开了这个订阅服务就可以免费畅玩「Xbox Game Pass」游戏库上的内容了，三百多款游戏，而且不是4399这样的游戏哦，很多都是3A大作。我的天，最最最良心的是，微软阵容的游戏发布时直接入库，简直香爆了。像地平线5，光环无限这样的大作第一时间就能直接免费玩，微软的「钞」能力果然厉害。&lt;/p>
+&lt;p>之前一直想玩的如龙系列也在库里，通了如龙0，果然是很不错的一个游戏。一直以来我对日系的这类游戏都不感兴趣，虽然朋友说这游戏剧情很好，值得一玩。但要我花钱买一个游戏去尝试的话，我好像又有点舍不得。现在好了，西瓜皮完全解决了我的困扰，可以免费游玩三个月甚至更久，退库了大不了再花钱补个票嘛。虽然现在自己玩游戏的时间真不多，但我想一个月玩通一个游戏肯定没什么问题的。&lt;/p>
+&lt;p>地平线5我玩了几个小时就决定先不玩了，首先是游戏玩不过来了，其次也是最主要的，我想直接买这个游戏。我是第一次玩地平线这个系列，以前因为觉得用手柄开车很别扭，所以我对赛车类游戏都不太感兴趣，这次试玩后决定花这四百块钱将地平线5的顶级版收到游戏库里，以后Xbox Game Pass游戏库上的内容暂时不太吸引我时再慢慢畅玩。&lt;/p>
+&lt;p>现在在玩光环无限，同样是超好玩的一个游戏，但暂时它还没有吸引到我为它补票的冲动，主要一大部分原因还是因为我自己，手柄玩射击游戏玩得太菜了，线上对战模式被虐得无不要不要的。&lt;/p>
+&lt;p>这两天趁着打折陆陆续续买了好几个游戏，有「刺客信条英灵殿」、「孤岛惊魂6」、「生化危机8」、「暗黑破坏神2重置版」、「荒野大镖客 2」，当然大表哥2我PC上买过了，但因为我的电脑配置不行了，所以游戏体现很一般，所以决定在次世代主机上再玩一次，不过据说现在还锁着30贞，希望R星以后更新一波来解锁吧。&lt;/p>
+&lt;p>买暗黑2则是纯情怀了，为以前补票。不过那天和我朋友聊了下，他好像也有意重温一下这个经典，如果是的话，那又可以欢乐的联机刷刷刷了。但这类游戏太肝了，总觉得已经不太适合现在的我。&lt;/p>
+&lt;h3 id="最后最后">最后最后&lt;/h3>
+&lt;p>因为想让主机全速下载游戏，所以趁着这空闲拔下草，没想到一码就码了这么多字。啰嗦了啰嗦了……&lt;/p>
+&lt;p>这里不得不吐槽一下Xbox的下载服务太垃圾了，家里刚升级的1000M宽带完全发挥不了，最快下载速度也就90Mbps，在Steam上下载基本能达到800Mbps，在Xbox上直接缩水到十分之一。&lt;/p></description></item></channel></rss>

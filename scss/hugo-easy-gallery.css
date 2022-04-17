@@ -7,7 +7,6 @@ Documentation and licence at https://github.com/liwenyip/hugo-easy-gallery/
 
 .gallery {
     overflow: hidden;
-    margin: 10px;
   }
   
   .gallery .box {

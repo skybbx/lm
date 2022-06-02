@@ -1,4 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>老麦笔记</title><link>https://iamlm.com/</link><description>Recent content on 老麦笔记</description><language>zh-cn</language><lastBuildDate>Tue, 31 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://iamlm.com/index.xml" rel="self" type="application/rss+xml"/><item><title>已婚男人的无奈</title><link>https://iamlm.com/archives/the-helplessness-of-married-men/</link><pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate><guid>https://iamlm.com/archives/the-helplessness-of-married-men/</guid><description>&lt;p>事情要从三年前说起，相关部门要求电动摩托车上牌，作为一个遵守交规的普通老百姓，我是十分赞同这个做法的。我所在城市，电动摩托车没有要求上牌前，总会看见很多车主不遵守交规，各种险象横生。自从要求电动摩托车上牌后，这种现象有了明显的改善。&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>老麦笔记</title><link>https://iamlm.com/</link><description>Recent content on 老麦笔记</description><language>zh-cn</language><lastBuildDate>Thu, 02 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://iamlm.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Edge的翻译问题</title><link>https://iamlm.com/archives/edge-translation-problem/</link><pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate><guid>https://iamlm.com/archives/edge-translation-problem/</guid><description>&lt;h3 id="难道又要换浏览器了吗">难道又要换浏览器了吗？&lt;/h3>
+&lt;p>我忘了从什么时候开始将默认浏览器从谷歌的Chrome换成微软的Edge了，依稀只记得那时在虎牙上看直播，Chrome一直报错，看着看着网页就直接崩溃的那种，网上找了一圈，各种方法都试过了还是没有解决。碰巧那时在B站上看到一个UP主在推Edge，就此上了车，使用至今。&lt;/p>
+&lt;p>可以这么说，就体验而言，Edge对我来说还是十分好的，在Chrome上使用的插件可以完美在Edge上运行，运行内存又比Chrome要低，看直播也没发生过崩溃，当然Chrome在后续的版本更新后看直播也没崩溃的情况了，因为我的虎牙账号绑的手机号是Google Voice的，然而之前卖游戏账号把常用的谷歌账号也打包了，以为该解绑的都解绑了，谁知原来还有漏网之鱼，就是这个虎牙账号的手机忘记更换新手机号，申诉很多次后无果，已放弃，可惜了我的粉丝牌。账号密码我保存在Chrome上了，所以现在可以直接登陆，但在新设置就要验证手机，结果就悲剧了，所以现在我都是使用Chrome来看直播，至于这个账号，能用多久就多久吧。&lt;/p>
+&lt;p>哇靠，我发现自己是真能扯，打着打着字就扯了这么多有的没的。&lt;/p>
+&lt;p>说回我为什么想换浏览器了这个事情，大概三个月前吧，Edge浏览自带的翻译功能就一直无法使用，我平时使用网页翻译这个功能还是很频繁的，每次打开外文网站都要将网址粘贴到Chrome上打开，再用Chrome上的翻译功能进行阅读，太麻烦了。对于我来说，Edge已经失去了作为工具的意义，因为它不再能让我方便地去使用。&lt;/p>
+&lt;h3 id="修改hosts解决edge的翻译问题">修改HOSTS解决Edge的翻译问题&lt;/h3>
+&lt;p>这只是一个治标不治本的办法，因为微软的这个IP经常变化，一变化就又要重新修改Hosts。&lt;/p>
+&lt;p>在C:\Windows\System32\drivers\etc里将hosts文件复制到桌面或其他文件夹，用记事本或其他文本编辑软件打开桌面上的hosts，在最后一行添加以下内容：&lt;/p>
+&lt;pre tabindex="0">&lt;code>13.107.6.158 edge.microsoft.com #Edge翻译
+&lt;/code>&lt;/pre>&lt;p>最后Win+R打开cmd输入ipconfig /flushdns刷新一下dns就完成了。&lt;/p>
+&lt;p>这个方法还是有点蠢的，翻译无法使用又要更新新的IP。希望Edge快点解决这个问题吧。&lt;/p></description></item><item><title>已婚男人的无奈</title><link>https://iamlm.com/archives/the-helplessness-of-married-men/</link><pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate><guid>https://iamlm.com/archives/the-helplessness-of-married-men/</guid><description>&lt;p>事情要从三年前说起，相关部门要求电动摩托车上牌，作为一个遵守交规的普通老百姓，我是十分赞同这个做法的。我所在城市，电动摩托车没有要求上牌前，总会看见很多车主不遵守交规，各种险象横生。自从要求电动摩托车上牌后，这种现象有了明显的改善。&lt;/p>
 &lt;p>我的爱玛电动车是在这之前买的，所以问题就来了，当我推车去上牌时，我的车子被列为超标车，只能上临时牌照。这个临时牌照只有三年的过渡期，三年后我的车子就不能上路了。我的爱玛电动车只用了一年不到，加上这三年过渡期，那么我的车子生命周期不就只有四年？那时一想就觉得亏大了，特别是家里那位财政主管，她可为此郁闷了很长一段时间。要不是有我一直开导，她估计还要生更久的闷气。那时我们商量决定，等爱玛不能上路后就换辆真正的&lt;strong>机车&lt;/strong>。&lt;/p>
 &lt;p>我这次不愉快的提车经历也因此而来。&lt;/p>
 &lt;p>眨眼三年过去了，最近政府在发放惠民优惠券，其中有一个券是临牌电动摩托车以旧换新（2000-400），因为10月份临牌电动摩托车就不能上路了，所以政府也顺势刺激一下经济。其实这个优惠券对我这种手持临牌电动摩托车的人来说，有政府的补帖还是很不错的。但是我是要买机车的人，所以一直我都没有去领这个券，既然明确知道自己用不上，把券留给有需要的人会好点。&lt;/p>
@@ -107,28 +117,4 @@ itemscope itemtype="http://schema.org/ImageObject" >
 &lt;p>晚饭时和老婆聊了下明天回乡祭祖的事，结果饭后我一打开抖音就刷到一个关于这方面的视频。我去，这么恐怖的吗？吓得我赶紧点了根烟压惊，上网查了一下，原来知乎上早已有很多人发出这样的质疑。&lt;/p>
 &lt;p>说回抖音上这个视频，真他喵的生动。两个小伙准备第二天一大早去庙里烧香拜佛，小伙1说，“明天去烧的香我替你买了。”小伙2奇怪的问，“香明天到庙里买不就行了？”小伙1又说，“寺庙里的香早晨可贵了。”小伙2一听崩出一句，“我C，佛祖不渡穷逼啊！”&lt;/p>
 &lt;p>我看完视频觉得很有意思，又接着在网上搜了一下关键字，原来「我佛不渡穷逼」这个梗几年前就有了，始于滇津喇嘛版本的《大悲咒》。&lt;/p>
-&lt;p>看来这个社会，没钱就是原罪。向前看？向钱看。&lt;/p></description></item><item><title>「收藏」最精彩的营销骗局之钻石篇</title><link>https://iamlm.com/archives/the-diamond-marketing-scam/</link><pubDate>Sat, 26 Mar 2022 00:00:00 +0000</pubDate><guid>https://iamlm.com/archives/the-diamond-marketing-scam/</guid><description>&lt;p>“钻石恒久远，一颗永流传。”伴随着这句经典的广告词，钻石开始正式走入大中视野。&lt;/p>
-&lt;p>可是和碳有着相同分子的钻石真的会恒久远吗，它到底存在着什么样的价值呢？&lt;/p>
-&lt;p>其实“钻石”早被誉为二十世纪最精彩的营销骗局，它提供了现代营销史上教科书般的经典案例：商品服务消费者只是一种低端的理念，商品教育消费者才是最高的成就。&lt;/p>
-&lt;p>钻石发现的最初只是一般的宝石，因为其量少而更加稀有，价格也比一般宝石高。然而， 1870年南非Orange River发现了巨大的钻石矿，产量可以用吨计。一夜之间，市场上充斥了钻石。这一下，钻石投资者彻底慌了，如果这么多钻石流入市场，极有可能造成钻石价格的彻底崩溃，这将是他们无法想象的。&lt;/p>
-&lt;p>就在此时，一个叫罗兹的英国商人在1988年创建了大名鼎鼎的戴比尔斯公司，从此钻石营销拉开了它的世纪大幕。&lt;/p>
-&lt;p>戴比尔斯先是买下了整个钻石矿，控制着钻石在市场上的数量，维持公众对钻石稀缺的印象。&lt;/p>
-&lt;p>可是他还是面临着一个巨大的问题，如果买了钻石的人要出售掉，钻石的价格体系也会崩溃，所以要想稳定价格除了让别人买，还得不让他卖钻石。但是，这真的可能吗？&lt;/p>
-&lt;p>可戴比尔斯偏偏就做到了，他花费了巨额的广告费用开始打造所谓的钻石文化。通过各种铺天盖地的广告让人们接受坚硬的钻石象征的正是忠贞不渝的爱情。&lt;/p>
-&lt;p>1950年，戴比尔斯更提出了那经典的广告语，“A DIAMOND IS FOREVER”,钻石恒久远，一颗永流传。通过这个营销，戴尔比斯一石三鸟。&lt;/p>
-&lt;ol>
-&lt;li>男人都认为只有更大更美的钻石才能表达最强烈的爱意，恋爱中的男人为了女人什么事都做的出来，买钻石比送命门槛低得多。&lt;/li>
-&lt;li>女人都认为钻石是求爱的必需，你连钻石都不舍得买，你还好意思说你爱我，什么，你以为我看中的是钻石，我看中的是你舍不舍得！&lt;/li>
-&lt;li>钻石都代表着永恒的爱情，拿来出售简直是对神圣爱情的最大亵渎。除非你跟前夫不共戴天，否则很少会卖掉他给你的钻戒，而且就算卖，也不会有人接手，因为那是你的爱情，而不是我的。&lt;/li>
-&lt;/ol>
-&lt;p>很显然，戴比尔斯获得了巨大的成功。虽然钻石的数量很多，但市场上还是供不应求，价格也依然扶摇直上，因为只有戴比尔斯才可以卖钻石。&lt;/p>
-&lt;p>这样的营销模式的确成功了，但当前苏联发现一座更大的钻石矿，大量碎钻供应于世面，戴比尔斯再次精化营销方案。&lt;/p>
-&lt;p>为了不让钻石掉身价，营销广告顺势转向，强调碎钻一样高贵，钻石虽小依然代表高贵的爱情。钻石的珍贵不是看大小，而是看做工和切面，于是又炮制了大量行业的标准，就这样，钻石也彻底征服了底层阶级，大的好的卖给富人，碎的小的卖给穷人。&lt;/p>
-&lt;p>与此同时，戴比尔斯做了一个客户倾向性调研，发现钻石作为礼物包含了很强的惊喜因素。男人赠送女人钻石礼物时，有一半情况下女方没有事先参与挑选购买或者事先不知道，女人普遍希望收到礼物时有惊喜感，有被电到的感觉。&lt;/p>
-&lt;p>尽管她们认为接受钻石礼物有不妥之处，但依然遏制不住想要得到它们的原始冲动，戴比尔斯利用了这种矛盾的心理。一个男人默默买了钻戒，在一个精心安排的场合突然送出，就最大程度的化解了这种矛盾，一方面她们拥有钻戒带来的极度喜悦，一方面又保持了女人的纯真。&lt;/p>
-&lt;p>如今，钻石已经绑架了它的消费者，因为到今天，女人们看中的早要不是钻石本身，而是更看重的是你宁愿花掉好几个月的工资差点年纪轻轻就过劳死而为她换来的一件爱情的象征。&lt;/p>
-&lt;p>难怪有人说，把所有营销学的书籍看完都不如完全理解戴比尔斯钻石营销的案例带来的收获大。消费者是需要培养的吗？完全不是，消费者是需要教育的，现在炒到这个价格，是因为戴比尔斯等最上游对行业的绝对控制。&lt;/p>
-&lt;p>尽管我们知道了钻石的荒谬但还是依然会买，这恐怕才是戴比尔斯真正的成功吧！&lt;/p>
-&lt;blockquote>
-&lt;p>内容收集于互联网。&lt;/p>
-&lt;/blockquote></description></item></channel></rss>
+&lt;p>看来这个社会，没钱就是原罪。向前看？向钱看。&lt;/p></description></item></channel></rss>

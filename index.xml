@@ -6,8 +6,8 @@
 &lt;h3 id="修改hosts解决edge的翻译问题">修改HOSTS解决Edge的翻译问题&lt;/h3>
 &lt;p>这只是一个治标不治本的办法，因为微软的这个IP经常变化，一变化就又要重新修改Hosts。&lt;/p>
 &lt;p>在C:\Windows\System32\drivers\etc里将hosts文件复制到桌面或其他文件夹，用记事本或其他文本编辑软件打开桌面上的hosts，在最后一行添加以下内容：&lt;/p>
-&lt;pre tabindex="0">&lt;code>13.107.6.158 edge.microsoft.com #Edge翻译
-&lt;/code>&lt;/pre>&lt;p>最后Win+R打开cmd输入ipconfig /flushdns刷新一下dns就完成了。&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1&lt;/span>&lt;span>&lt;span style="color:#bd93f9">13.107.6.158&lt;/span> edge&lt;span style="color:#ff79c6">.&lt;/span>microsoft&lt;span style="color:#ff79c6">.&lt;/span>com &lt;span style="color:#6272a4">#Edge翻译&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>最后Win+R打开cmd输入ipconfig /flushdns刷新一下dns就完成了。&lt;/p>
 &lt;p>这个方法还是有点蠢的，翻译无法使用又要更新新的IP。希望Edge快点解决这个问题吧。&lt;/p></description></item><item><title>已婚男人的无奈</title><link>https://iamlm.com/archives/the-helplessness-of-married-men/</link><pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate><guid>https://iamlm.com/archives/the-helplessness-of-married-men/</guid><description>&lt;p>事情要从三年前说起，相关部门要求电动摩托车上牌，作为一个遵守交规的普通老百姓，我是十分赞同这个做法的。我所在城市，电动摩托车没有要求上牌前，总会看见很多车主不遵守交规，各种险象横生。自从要求电动摩托车上牌后，这种现象有了明显的改善。&lt;/p>
 &lt;p>我的爱玛电动车是在这之前买的，所以问题就来了，当我推车去上牌时，我的车子被列为超标车，只能上临时牌照。这个临时牌照只有三年的过渡期，三年后我的车子就不能上路了。我的爱玛电动车只用了一年不到，加上这三年过渡期，那么我的车子生命周期不就只有四年？那时一想就觉得亏大了，特别是家里那位财政主管，她可为此郁闷了很长一段时间。要不是有我一直开导，她估计还要生更久的闷气。那时我们商量决定，等爱玛不能上路后就换辆真正的&lt;strong>机车&lt;/strong>。&lt;/p>
 &lt;p>我这次不愉快的提车经历也因此而来。&lt;/p>

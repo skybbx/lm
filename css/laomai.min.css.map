@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "laomai.min.css",
-	"sourceRoot": "D:/study/lm",
+	"sourceRoot": "/Users/laomai/blog/lm",
 	"sources": [
 		"assets/scss/style.scss",
 		"assets/scss/normalize.scss",

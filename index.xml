@@ -1,176 +1,68 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>老麦笔记</title><link>https://iamlm.com/</link><description>Recent content on 老麦笔记</description><language>zh-cn</language><lastBuildDate>Sat, 25 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://iamlm.com/index.xml" rel="self" type="application/rss+xml"/><item><title>戒烟的第三天</title><link>https://iamlm.com/the-third-day-of-quitting-smoking/</link><pubDate>Sat, 25 Jun 2022 00:00:00 +0000</pubDate><guid>https://iamlm.com/the-third-day-of-quitting-smoking/</guid><description>&lt;p>今天已经是从开始戒烟的第三天了，整体感觉良好，比头两天舒服多了，不再像前两天那样老想着来一根，头也不发晕，虽然还有想抽一根的冲动，但都很坚强的克制了下来。&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>老麦笔记</title><link>https://iamlm.com/</link><description>Recent content on 老麦笔记</description><language>zh-cn</language><lastBuildDate>Sat, 25 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://iamlm.com/index.xml" rel="self" type="application/rss+xml"/><item><title>戒烟的第三天</title><link>https://iamlm.com/archives/the-third-day-of-quitting-smoking/</link><pubDate>Sat, 25 Jun 2022 00:00:00 +0000</pubDate><guid>https://iamlm.com/archives/the-third-day-of-quitting-smoking/</guid><description>&lt;p>今天已经是从开始戒烟的第三天了，整体感觉良好，比头两天舒服多了，不再像前两天那样老想着来一根，头也不发晕，虽然还有想抽一根的冲动，但都很坚强的克制了下来。&lt;/p>
 &lt;h3 id="第三天">第三天&lt;/h3>
 &lt;ul>
 &lt;li>&lt;strong>尴尬&lt;/strong>——今天上班的时候碰见一个和朋友长得极度相似的人，甚至一度怀疑是朋友多年失散的「双胞胎」姐妹。因为平时和朋友说话有点奔放，加上这次真没有意识到自己认错人，所以讲话分寸全无，后来知道自己认错了人，那时只有一个想法，找个地洞钻进去。&lt;/li>
 &lt;li>&lt;strong>损友&lt;/strong>——当某人得知自己动了真格，是真的开始戒烟时，这人坏得很，直接从车里拿了包荷花递过来，“以后你抽的烟我包了，你戒什么烟？烟都戒了，做人还有什么乐趣？”哈哈哈～，这个朋友是真的可怜，如果自己真戒烟成功了，那么以后吸烟区估计只剩下那个单薄且孤独的身影了。&lt;/li>
 &lt;li>&lt;strong>喝两杯&lt;/strong>——又到周五啦，约起来。最近大伙都喜欢上吃烤鱼，一种无骨鱼，烤鱼配啤洒，绝搭，估计大伙喜欢烤鱼的原因与天气的火热想喝两杯冰镇啤酒有关。&lt;/li>
 &lt;li>&lt;strong>胡思乱想&lt;/strong>——最近发现自己与身边几个好兄弟的生活质量、思考方向有了很大的差距。物质上的差距问题不大，毕竟这个问题一直存在，但是思想这方面的差距有点难搞了。这样的想法我相信J仔也有，毕竟这是一个既明显又残酷的现实。&lt;/li>
-&lt;/ul></description></item><item><title>闲言</title><link>https://iamlm.com/bb/</link><pubDate>Wed, 23 Jun 2021 18:18:18 +0800</pubDate><guid>https://iamlm.com/bb/</guid><description>&lt;style>
-.ispeak {
-padding-top: 30px;
-}
-.xk-info .count[data-v-0224b4ae] {
-font-size: 24px;
-}
-&lt;/style>
-&lt;div id='speak'>&lt;/speak>
-&lt;!-- 使用markdown渲染 -->
-&lt;!-- &lt;script type="text/javascript" src="https://cdn.jsdelivr.net/npm/ispeak-bber/ispeak-bber-md.min.js" charset="utf-8" >&lt;/script> -->
-&lt;!-- 不使用markdown渲染 -->
-&lt;script type="text/javascript" src="https://cdn.qylao.com/dist/ispeak-bber.min.js" charset="utf-8" >&lt;/script>
-&lt;!-- &lt;script type="text/javascript" src="https://cdn.jsdelivr.net/npm/ispeak-bber/ispeak-bber.min.js" charset="utf-8" >&lt;/script> -->
-&lt;!-- 解析微信表情（参考：https://github.com/buddys/qq-wechat-emotion-parser） -->
-&lt;!-- &lt;script src="https://cdn.jsdelivr.net/gh/buddys/qq-wechat-emotion-parser@master/dist/qq-wechat-emotion-parser.min.js">&lt;/script> -->
-&lt;script>
-ispeakBber
-.init({
-el: '#speak', // 容器选择器
-name: '老麦', // 显示的昵称
-envId: 'laomai-3gk8ukum10f3f137', // 环境id
-region: 'ap-guangzhou', // 腾讯云地址，默认为上海
-limit: 10, // 每次加载的条数，默认为5
-avatar: 'https://sdn.geekzu.org/avatar/8b7f3b316357d4b0439470c51ae7af05?s=22&amp;d=mm&amp;r=g',
-fromColor:'#c05b4d', // 下方标签背景颜色 默认 rgb(245, 150, 170)
-loadingImg: 'https://cdn.qylao.com/images/loading-buffering.gif', // 自定义loading的图片，示例值为默认值
-dbName:'talks' // 数据的名称，默认talks，避免有人的命名不是这个，所以加入此配置字段。
-})
-&lt;/script>
-&lt;!-- &lt;div id="bber">&lt;/div>
-&lt;style>
-.timeline ul {margin:0;}
-.timeline ul li {background:#c05b4d;list-style-type:none;position:relative;width:3px;margin-left:2em;padding:0.8em 0 2em;}
-.timeline ul li::after {transform: rotate(45deg);content:'';background-color: #c05b4d;display: block;position: absolute;top: 10px;left: -5px;width: 0.8em;height: 0.8em;outline: 15px solid #fff;}
-.timeline ul li div {position:relative;top:-13px;left:3em;width:670px;padding:0px 16px 0px;}
-.timeline ul li p.datatime{color: #fafafa;font-size: 0.75em;background-color: #c05b4d;display: inline-block;padding:0.25em 1em 0.2em 1em;}
-.timeline ul li p.datacont{margin:0.65em 0 0.3em;}
-.timeline ul li p.datacont img{display:block;max-height:340px !important;}
-.timeline ul li p.datacont img[src*="emotion"]{display:inline-block;width:auto;}
-.timeline ul li p.datafrom{color: #aaa;font-size: 0.75em !important;}
-.timeline ul li p{margin:0;font-size:20px;letter-spacing:1px;color: rgba(0,0,0,.84);}
-button{border-radius:0;}
-.dark-theme .timeline ul li div p{color:#fafafa;}
-.dark-theme .timeline ul li div p svg{fill:#fafafa;}
-.dark-theme .timeline ul li p.datafrom{color: #aaa;}
-.dark-theme .timeline ul li{background:#c05b4d;}
-.dark-theme .timeline ul li::after{outline: 15px solid #292a2d;}
-.post-header {display:none;}
-@media (max-width:860px) {
-.timeline ul li{margin-left:0;}
-.timeline ul li div{width:calc(100vw - 75px);left:30px;}
-/* .timeline ul li p {font-size:16px;} */
-}
-&lt;/style>
-&lt;script src="https://imgcache.qq.com/qcloud/cloudbase-js-sdk/1.4.0/cloudbase.full.js">&lt;/script>
-&lt;script src="https://cdn.jsdelivr.net/gh/buddys/qq-wechat-emotion-parser@master/dist/qq-wechat-emotion-parser.min.js">&lt;/script>
-&lt;script>
-const app = cloudbase.init({
-env: "laomai-3gk8ukum10f3f137", //这里是你的环境id
-region: "ap-guangzhou"
-})
-&lt;/script>
-&lt;script type="text/javascript" src="https://cdn.jsdelivr.net/gh/lmm214/bber@0.0.5/bber.js">&lt;/script> --></description></item><item><title>关于</title><link>https://iamlm.com/about/</link><pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate><guid>https://iamlm.com/about/</guid><description>&lt;h3 id="关于我">关于我&lt;/h3>
-&lt;p>麦生，80后大叔，故身边很多朋友都称呼我一声老麦，曾经也为此苦恼过，毕竟我还有一颗年轻的心。&lt;/p>
-&lt;p>接触互联网的时间比较早，那时申请QQ还是六位数的。曾用过的昵称不多，婚前昵称基本都是和青蛙有关的，如“沉睡的青蛙”这类，婚后一直使用姓氏的全拼作为昵称，2020年开始使用“老麦”作为昵称。&lt;/p>
-&lt;p>农民出身，没有远大的理想，故一直在小县城过着平淡的生活。&lt;/p>
-&lt;p>爱玩游戏，从帝国、红警那个年代一步步走过来的人。&lt;/p>
-&lt;p>对HTML、CSS、PHP、MYSQL、JSP、ASP、JAVA、PYTHON、DOCKER、GO、NODEJS等等都是只知其名不知其意。&lt;/p>
-&lt;p>宠物史，十年前养过一只吉娃娃，名字叫febb，它走后就不再养了。&lt;/p>
-&lt;hr>
-&lt;h3 id="关于博客">关于博客&lt;/h3>
-&lt;p>这是我第二次开独立博客，从QQ空间开始，到2010年关闭博客，期间一直在折腾，那个时候的内容大多数是转载，也就是大家伙说的CTRL+C，CTRL+V大法。&lt;/p>
-&lt;p>这次开博客主要是记录一下自己平淡的生活，方便自己老时回忆。&lt;/p>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th style="text-align:center">&lt;/th>
-&lt;th style="text-align:left">&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td style="text-align:center">2022-04-15&lt;/td>
-&lt;td style="text-align:left">自用主题上线使用。&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align:center">2021-09-20&lt;/td>
-&lt;td style="text-align:left">将样式全去了，只用基本框架，发现别有一番风味。&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align:center">2021-08-01&lt;/td>
-&lt;td style="text-align:left">使用Stack主题进行重新构建文章，为配合主题的的暗色模式，评论改用waline。&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align:center">2020-12-30&lt;/td>
-&lt;td style="text-align:left">对主题进行了一次小修改，主要是参照adobe color色轮进行重新配色。&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align:center">2020-12-22&lt;/td>
-&lt;td style="text-align:left">更换第三方评论系统，采用Twikoo。&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align:center">2020-09-09&lt;/td>
-&lt;td style="text-align:left">域名更换成laomai.org。&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align:center">2020-08-30&lt;/td>
-&lt;td style="text-align:left">正式成为《十年之约》这个神秘组织的一员。&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align:center">2020-08-08&lt;/td>
-&lt;td style="text-align:left">博客更换成Hugo，并使用主题Jane。&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align:center">2020-06-28&lt;/td>
-&lt;td style="text-align:left">选择使用Hexo来重新开始博客之旅。&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align:center">2010&amp;ndash;2020&lt;/td>
-&lt;td style="text-align:left">空窗期。&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align:center">2005&amp;ndash;2010&lt;/td>
-&lt;td style="text-align:left">不提也罢。&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table></description></item><item><title>相册</title><link>https://iamlm.com/rachel-momo/</link><pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate><guid>https://iamlm.com/rachel-momo/</guid><description>&lt;h2 id="毛晓彤">毛晓彤&lt;/h2>
-&lt;p>喜欢她是因为她有着最美的笑容！&lt;/p>
-&lt;p>
-&lt;p>&lt;img src="https://iamlm.com/rachel-momo/1_hua94a5d668a4f4f0b37fe90e1f45f4fb4_158334_800x0_resize_q75_h2_lanczos_2.webp"
-loading="lazy"
-alt="" />&lt;/p>
-&lt;p>&lt;img src="https://iamlm.com/rachel-momo/2_hu43b79b72bc3b86a5c92182afe7a47933_176228_800x0_resize_q75_h2_lanczos_2.webp"
-loading="lazy"
-alt="" />&lt;/p>
-&lt;p>&lt;img src="https://iamlm.com/rachel-momo/yongchi-7_hu182a5297cc6f545b17476511fa578266_298256_800x0_resize_q75_h2_lanczos_2.webp"
-loading="lazy"
-alt="" />&lt;/p>&lt;/p>
-&lt;p>
-&lt;p>&lt;img src="https://iamlm.com/rachel-momo/3_huefcfc05caa06d362b6d7e0589f3c8985_113314_800x0_resize_q75_h2_lanczos_2.webp"
-loading="lazy"
-alt="" />&lt;/p>
-&lt;p>&lt;img src="https://iamlm.com/rachel-momo/4_huc86c335e9786569a99dd1996e35d5595_116212_800x0_resize_q75_h2_lanczos_2.webp"
-loading="lazy"
-alt="" />&lt;/p>
-&lt;p>&lt;img src="https://iamlm.com/rachel-momo/5_hu8f323c855c8c711b1fd3c542d92c32a2_283740_800x0_resize_q75_h2_lanczos_2.webp"
-loading="lazy"
-alt="" />&lt;/p>&lt;/p>
-&lt;p>
-&lt;p>&lt;img src="https://iamlm.com/rachel-momo/6_hu5bbcf987995ec6eb29f8aea88ce2beae_106296_800x0_resize_q75_h2_lanczos_2.webp"
-loading="lazy"
-alt="" />&lt;/p>&lt;/p>
-&lt;p>
-&lt;p>&lt;img src="https://iamlm.com/rachel-momo/9_hu7de722429a47628425b98ec67620b3e9_201854_800x0_resize_q75_h2_lanczos_2.webp"
-loading="lazy"
-alt="" />&lt;/p>
-&lt;p>&lt;img src="https://iamlm.com/rachel-momo/cool-3_hub9aafd1baf34442f5668435ea13daa92_40338_800x0_resize_q75_h2_lanczos_2.webp"
-loading="lazy"
-alt="" />&lt;/p>
-&lt;p>&lt;img src="https://iamlm.com/rachel-momo/dsl-2_hua9fa43802da491ff0a5afe09a0fb4482_173536_800x0_resize_q75_h2_lanczos_2.webp"
-loading="lazy"
-alt="" />&lt;/p>
-&lt;p>&lt;img src="https://iamlm.com/rachel-momo/haibian-6_hu141ea31ee784b584645ac12b50d96f17_88948_800x0_resize_q75_h2_lanczos_2.webp"
-loading="lazy"
-alt="" />&lt;/p>&lt;/p></description></item><item><title>文章</title><link>https://iamlm.com/archives/</link><pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate><guid>https://iamlm.com/archives/</guid><description/></item><item><title>友链</title><link>https://iamlm.com/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://iamlm.com/links/</guid><description>&lt;h3 id="我的朋友们">我的朋友们&lt;/h3>
+&lt;/ul></description></item><item><title>戒烟的第二天</title><link>https://iamlm.com/archives/the-second-day-of-quitting-smoking/</link><pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate><guid>https://iamlm.com/archives/the-second-day-of-quitting-smoking/</guid><description>&lt;p>最近想添置一台UPS，其原因是家里这个星期每天都会断一次电，一开始以为是自家线路出了问题，后来才知道是整幢楼都有这个情况，找物业了解，据说可能是供电线路，还在排查当中。这就很烦，查了两天还没查出个所以然来。因此家里的NAS每天都被强行断电关机，很是担心数据就这样没了。之前来电了NAS还会自动开机，但今天发现被强行断电关机后再通电不会自动开机了，很奇怪，明明设置都没有改过，为什么会这样子呢？&lt;/p>
+&lt;p>据说UPS可以不间断的给需要的设备供电，那么现在这个情况有必要入手一个来保护家里的NAS吗？懂这方面的大佬烦请指点一二。&lt;/p>
+&lt;h3 id="第二天">第二天&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>休息&lt;/strong>——精神状态很差、很低迷，在办公室坐了半个小时，决定还是请个假回家休息一下。本想回家后睡一觉的，可躺床上刷B站，越刷越睡不着。&lt;/li>
+&lt;li>&lt;strong>泡茶&lt;/strong>——前段日子去表弟那拿了两饼生普，一饼老一饼新，间隔着泡来喝，很有一番滋味，一陈一鲜。终于明白为什么J仔可以将一老一新的生普混在一起泡，虽然还是不认同这样的做法。&lt;/li>
+&lt;li>&lt;strong>适应&lt;/strong>——新的电脑到了一段时间咯，第一次接触MacOS这个系统，只有一点点不适应而已，过渡期并没有想象中那么长，毕竟自己在Windows上常用的那些软件在MacOS上几乎都可以找到或有更好的替代品，得益于新电脑的性能，这些软件在新电脑上用得比以前舒服多了。&lt;/li>
+&lt;li>&lt;strong>差点破防&lt;/strong>——下午自己一个人在家，本想修复一下主题的BUG。以前碰到想不通问题就会点根烟慢慢想解决办法，可能就是因为这样，下午的时候差点就下楼买烟。意识到可能是因为这样，决定暂停折腾，什么事都等烟戒了后再说。&lt;/li>
+&lt;/ul></description></item><item><title>戒烟的第一天</title><link>https://iamlm.com/archives/the-first-day-of-quitting-smoking/</link><pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate><guid>https://iamlm.com/archives/the-first-day-of-quitting-smoking/</guid><description>&lt;p>首先说明一下，这是他第二次戒烟。第一次戒烟他只坚持了半年多一点就……希望这次不再重滔覆撤吧。&lt;/p>
+&lt;p>老实说吧，他不知道该如何去表达现在自己的内心想法，因为此时此刻的他头有点晕。他是真的想不到这次戒烟会这么辛苦，他第一次戒烟利用了一些道具，「戒烟帖」。记得那时将那玩意帖在手臂上，慢慢的他就不想抽烟了，现在细想一下，那玩意好像有点用。&lt;/p>
+&lt;h3 id="第一天">第一天&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>头晕&lt;/strong>——早上起床时精神不错，也没有想抽烟的想法。但是中午饭后开始有强烈的反应，一直强忍着。直接后果就是头开始发晕，而且是持续的。好在今天工作有点忙，因为发现忙的时候很容易就会忘记自己在戒烟。&lt;/li>
+&lt;li>&lt;strong>流口水&lt;/strong>——这个是真的烦，烟瘾来时就有一种口水直流的感觉，导致一直在吞口水，但是越是这样就越想抽烟。这种反应最强烈的表现就是吃饱后，无所事事时尤为明显。&lt;/li>
+&lt;li>&lt;strong>收拾房间&lt;/strong>——为了让自己不停下来，他今天很是认真的收拾了房间。不打扫不知道，他的房间是真的脏，尤其是之前抽烟时烟灰飞到满房间都是。他将烟灰缸、打火机等犯罪工具都打包收拾放好，眼不见为净。&lt;/li>
+&lt;li>&lt;strong>激励&lt;/strong>——妻子对他的这次戒烟决心抱怀疑的态度，或者是因为他有前车之鉴吧？但她还是说了只要他能成功戒烟就涨他的生活费。&lt;/li>
+&lt;li>&lt;strong>建议&lt;/strong>——身边的人看他动真格，纷纷发表了各自的建议，但他这次想凭意志力，适当的增加一些运动。&lt;/li>
+&lt;/ul></description></item><item><title>又又被顺手牵羊了</title><link>https://iamlm.com/archives/bad-guys-patronize-me-again/</link><pubDate>Sat, 11 Jun 2022 00:00:00 +0000</pubDate><guid>https://iamlm.com/archives/bad-guys-patronize-me-again/</guid><description>&lt;p>为什么又又呢？这是他自从将小电驴停在小区外面已经第三次丢失配件了。&lt;/p>
+&lt;p>他很恼火，为什么每次都是顺他的，每次都发生在他身上。&lt;/p>
+&lt;p>大概半年前吧，他所居住的小区物业涨了电动车/摩托车的管理费，他觉得实在是太不值了，因为就算将车子停回地下停车场也会不见东西，业主群上就曾经有业主反映过这个问题，更可气的是物业的态度，摆出一副事不关己的脸，那么这个管理费交得还有什么意义？&lt;/p>
+&lt;p>他选择将小电驴停在小区外面，毕竟附近商铺前面都画了公共停车位，免费停放且有摄像头对着，应该还是很安全的。&lt;/p>
+&lt;p>可他万万没想到的是，车子是安全了，但头盔、雨衣等配件就丢失了三回。&lt;/p>
+&lt;p>因为孩子的关系，他与小区西入口的商户老板也熟悉了，渐渐的他也习惯了将车子停在老板的商铺附近。这次不见了雨衣，就决定找老板查一下监控，老板也爽快的答应了。其实他也不是想追究到底，就是想看一下是什么人做小偷小摸。&lt;/p>
+&lt;p>老板拿出手机，不用两分钟就找到了真凶，居然是一个美少妇。老板回想了一下道，“应该是来旁边麻将馆打麻将的，昨晚散场时好像正下着大雨，可能是她没雨衣就……”&lt;/p>
+&lt;p>和老板聊了会，听老板的意思，他之前不见东西的情况应该都与这次的情况差不多，都是别人顺手牵羊了。老板说，“以后将车子远离这间麻将馆一点，经常半夜三更还在打牌，声音又大，唉～这些人的素质可想而知了。”&lt;/p>
+&lt;p>看来以后还得长点心才行，虽然丢失的东西不值什么钱，但长久下去可不是办法。单单等快递这段期间自己没得用也是够他麻烦的了。&lt;/p>
+&lt;p>晚上他和妻子说起这个事，妻子气不过，把视频直接发业主群上了，妻子觉得应该给其他业主提个醒。他倒没想到这个，看来还是女人心思缜密。&lt;/p></description></item><item><title>感谢有您</title><link>https://iamlm.com/archives/thank-you/</link><pubDate>Sun, 05 Jun 2022 01:50:23 +0800</pubDate><guid>https://iamlm.com/archives/thank-you/</guid><description>&lt;p>他一直爱岗敬业，却从未能得到赏识。他一直默默坚守在前线，却因为一句“你老了”退居二线，为此他失眠了多少个夜。后来他得知将他下调是为了提升某位后辈，他更是伤透了心，常常自埋社会的不公。&lt;/p>
+&lt;p>现实不会因为你已千疮百孔就此放过你，将他从小带大的奶奶离开了他，那个慈祥的脸庞他再也看不到了。&lt;/p>
+&lt;p>他一直以为自己是个坚强乐观的人，可当一些不好的事情接踵而来时，原来他是很脆弱的，甚至他开始责怪平时的他伪装得太好了。每个失眠的晚上，他都躲在阳台遥望着没有一丝色彩的夜空。烟，一根接一根的抽着。&lt;/p>
+&lt;p>他在思考？&lt;/p>
+&lt;p>不是。&lt;/p>
+&lt;p>他是迷茫。他是思念。&lt;/p>
+&lt;p>“睡了吗？我在你楼下，下来喝两杯。”他接到X的电话，没等他拒绝，对方就挂了电话。&lt;/p>
+&lt;p>小区门口士多，一张桌子，一袋花生，一打啤酒，两个人，很安静，酒却一瓶接着一瓶的向肚里灌。&lt;/p>
+&lt;p>X见他差不多了，开口道，“说说吧。”&lt;/p>
+&lt;p>他调侃道，“合适吗？一公司老板，就请我蹲路边喝？”&lt;/p>
+&lt;p>“少皮，这顿你埋单。”&lt;/p>
+&lt;p>……&lt;/p>
+&lt;p>老人都说他有福气，他总嗤之以鼻，现在看来他真的有福气。每当他有坎跨不过时，身边总会有那么一个人拉他一把。&lt;/p>
+&lt;p>后来他们谈了很久，但是他应该是喝多了，因为X说的话他只依稀记得个大概，“不要和同事比，要比就和你的领导比，求其中者得其下。你要记住，将军赶路，不追小兔。要想跨越圈层，就不要在同圈里面比较。让你的格局和眼界永远比你的收入高一点。”&lt;/p>
+&lt;p>散后，X发了个短视频给他，内容就一个男的读毒鸡汤。&lt;/p>
 &lt;blockquote>
-&lt;p>海内存知己，天涯若比邻。&lt;/p>
-&lt;/blockquote></description></item></channel></rss>
+&lt;p>有些事菩萨让你做不成，那是在保护你！&lt;/p>
+&lt;p>停电了，车坏了，晚点了，错过了，受伤了&amp;hellip;&amp;hellip;&lt;/p>
+&lt;p>别抱怨，别生气，世间万物，来去都是有定数的。&lt;/p>
+&lt;p>你要记住：得到未必是福，失去未必是祸。人生各有渡口各有各舟。&lt;/p>
+&lt;p>有缘躲不开，无缘碰不到，缘起则聚，缘尽则散！&lt;/p>
+&lt;p>我始终相信世间所有的安排都有它的道理。&lt;/p>
+&lt;p>失之东隅，收之桑榆！&lt;/p>
+&lt;/blockquote>
+&lt;p>感谢有您……&lt;/p></description></item><item><title>Edge的翻译问题</title><link>https://iamlm.com/archives/edge-translation-problem/</link><pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate><guid>https://iamlm.com/archives/edge-translation-problem/</guid><description>&lt;h3 id="难道又要换浏览器了吗">难道又要换浏览器了吗？&lt;/h3>
+&lt;p>我忘了从什么时候开始将默认浏览器从谷歌的Chrome换成微软的Edge了，依稀只记得那时在虎牙上看直播，Chrome一直报错，看着看着网页就直接崩溃的那种，网上找了一圈，各种方法都试过了还是没有解决。碰巧那时在B站上看到一个UP主在推Edge，就此上了车，使用至今。&lt;/p>
+&lt;p>可以这么说，就体验而言，Edge对我来说还是十分好的，在Chrome上使用的插件可以完美在Edge上运行，运行内存又比Chrome要低，看直播也没发生过崩溃，当然Chrome在后续的版本更新后看直播也没崩溃的情况了，因为我的虎牙账号绑的手机号是Google Voice的，然而之前卖游戏账号把常用的谷歌账号也打包了，以为该解绑的都解绑了，谁知原来还有漏网之鱼，就是这个虎牙账号的手机忘记更换新手机号，申诉很多次后无果，已放弃，可惜了我的粉丝牌。账号密码我保存在Chrome上了，所以现在可以直接登陆，但在新设置就要验证手机，结果就悲剧了，所以现在我都是使用Chrome来看直播，至于这个账号，能用多久就多久吧。&lt;/p>
+&lt;p>哇靠，我发现自己是真能扯，打着打着字就扯了这么多有的没的。&lt;/p>
+&lt;p>说回我为什么想换浏览器了这个事情，大概三个月前吧，Edge浏览自带的翻译功能就一直无法使用，我平时使用网页翻译这个功能还是很频繁的，每次打开外文网站都要将网址粘贴到Chrome上打开，再用Chrome上的翻译功能进行阅读，太麻烦了。对于我来说，Edge已经失去了作为工具的意义，因为它不再能让我方便地去使用。&lt;/p>
+&lt;h3 id="修改hosts解决edge的翻译问题">修改HOSTS解决Edge的翻译问题&lt;/h3>
+&lt;p>这只是一个治标不治本的办法，因为微软的这个IP经常变化，一变化就又要重新修改Hosts。&lt;/p>
+&lt;p>在C:\Windows\System32\drivers\etc里将hosts文件复制到桌面或其他文件夹，用记事本或其他文本编辑软件打开桌面上的hosts，在最后一行添加以下内容：&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1&lt;/span>&lt;span>&lt;span style="color:#bd93f9">13.107.6.158&lt;/span> edge&lt;span style="color:#ff79c6">.&lt;/span>microsoft&lt;span style="color:#ff79c6">.&lt;/span>com &lt;span style="color:#6272a4">#Edge翻译&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>最后Win+R打开cmd输入ipconfig /flushdns刷新一下dns就完成了。&lt;/p>
+&lt;p>这个方法还是有点蠢的，翻译无法使用又要更新新的IP。希望Edge快点解决这个问题吧。&lt;/p></description></item></channel></rss>

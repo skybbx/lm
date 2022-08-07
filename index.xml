@@ -1,4 +1,65 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>老麦笔记</title><link>https://iamlm.com/</link><description>Recent content on 老麦笔记</description><language>zh-cn</language><lastBuildDate>Sat, 09 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://iamlm.com/index.xml" rel="self" type="application/rss+xml"/><item><title>这是一篇流水账-01</title><link>https://iamlm.com/archives/this-is-a-running-account-01/</link><pubDate>Sat, 09 Jul 2022 00:00:00 +0000</pubDate><guid>https://iamlm.com/archives/this-is-a-running-account-01/</guid><description>&lt;p>虽然戒烟已经两周多了，但我知道自己戒烟还未成功，最近两天想抽烟的感觉淡了点，头晕的情况也改善了些。其实现在也没什么好说的了，只能继续「坚持」与「加油」。&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>老麦笔记</title><link>https://iamlm.com/</link><description>Recent content on 老麦笔记</description><language>zh-cn</language><lastBuildDate>Sun, 07 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://iamlm.com/index.xml" rel="self" type="application/rss+xml"/><item><title>白忙活篇之VMware虚拟机</title><link>https://iamlm.com/archives/waste-time-at-vmware-virtual-machine/</link><pubDate>Sun, 07 Aug 2022 00:00:00 +0000</pubDate><guid>https://iamlm.com/archives/waste-time-at-vmware-virtual-machine/</guid><description>&lt;p>由于各种各样的原因导致七月中旬后就突然忙碌了起来，连续加班工作了二十天。果然，“加班”使我快乐。&lt;/p>
+&lt;p>家里的神兽去了祸害他们的外婆与姑姑，直接导致这个周末家里反倒变得清静了下来。老婆今天还要回店里忙活，家里就剩自己一个，没啥事做就继续尝试安装虚拟机吧。&lt;/p>
+&lt;p>M1的MacOS安装虚拟机我是真的服，这段时间间续的尝试了很多次都未能成功。对了，因为VMware Fusion Player&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>可以免费使用，新电脑的虚拟机方案就选择了它。可万万没想到的是这就是个巨坑，下载了很多个系统镜像都无法顺利完成安装。&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1&lt;/span>&lt;span>EFI stub: Booting Linux Kernel.
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2&lt;/span>&lt;span>EFI stub: EFI_RNG_PROTOCOL unavailable, no randomness supplied
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3&lt;/span>&lt;span>EFI stub: Using DIB from configuration table
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">4&lt;/span>&lt;span>EFI stub: Exiting boot services and installing virtual address map...
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>根据我有限的理解就是因为Linux内核的关系导致虚拟机启动不了。&lt;/p>
+&lt;p>
+&lt;p>&lt;img src="https://iamlm.com/archives/waste-time-at-vmware-virtual-machine/image-20220801144334778_hu7ab695078fa98f60844c0d8b0729d08c_119823_800x0_resize_q75_h2_lanczos_3.webp"
+loading="lazy"
+alt="image-20220801144334778" />&lt;/p>&lt;/p>
+&lt;p>在尝试了个不知多少个系统后，&lt;strong>终于终于终于&lt;/strong>使用&lt;strong>ubuntu-20.04.2-live-server-arm64.iso&lt;/strong>&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>这个镜像成功启动了虚拟机，有了第一次成功启动，后面的事情就变得顺理成章了。知道是因为Linux内核的关系才导致VMWare Fusion无法成功启动虚拟机，所以使用上面的镜像成功启动Ubuntu虚拟机第一件要做的事情就是进入Ubuntu系统里锁住Linux内核的版本，不能让系统自动更新内核，要不然虚拟机关机后重新启动还是会出现如上图的提示。&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 1&lt;/span>&lt;span>&lt;span style="color:#6272a4"># 查看已安装内核&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 2&lt;/span>&lt;span>dpkg --get-selections |grep linux-image
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 3&lt;/span>&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 4&lt;/span>&lt;span>&lt;span style="color:#6272a4"># root@ubuntu:~/data/Artalk/ArtalkGo# dpkg --get-selections |grep linux-image&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 5&lt;/span>&lt;span>&lt;span style="color:#6272a4"># linux-image-5.4.0-65-generic hold&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 6&lt;/span>&lt;span>&lt;span style="color:#6272a4"># linux-image-generic hold&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 7&lt;/span>&lt;span>&lt;span style="color:#6272a4"># 显示hold是因为我已经将内核锁住了，没锁前hold这显示install&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 8&lt;/span>&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 9&lt;/span>&lt;span>&lt;span style="color:#6272a4"># 查看正在使用的内核&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">10&lt;/span>&lt;span>uname -a
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">11&lt;/span>&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">12&lt;/span>&lt;span>&lt;span style="color:#6272a4"># 关闭内核自动更新&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">13&lt;/span>&lt;span>&lt;span style="color:#6272a4"># sudo apt-mark hold linux-image-&amp;lt;内核版本&amp;gt;-generic&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">14&lt;/span>&lt;span>sudo apt-mark hold linux-image-5.4.0-65-generic
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">15&lt;/span>&lt;span>&lt;span style="color:#6272a4"># 保险起见，将不带版本号的内核也锁住&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">16&lt;/span>&lt;span>sudo apt-mark hold linux-image-generic
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">17&lt;/span>&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">18&lt;/span>&lt;span>&lt;span style="color:#6272a4"># 如果以后VMware Fusion更新了，可以重新解锁内核更新&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">19&lt;/span>&lt;span>sudo apt-mark unhold linux-image-5.4.0-65-generic
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">20&lt;/span>&lt;span>sudo apt-mark unhold linux-image-generic
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>经过这次折腾，深深的觉得对于现在的我来说花钱买服务来得更加实际。由于M1芯片的关系，即便现在MacOS上软件的适配做得还不错，但还是会有不足之处。就拿VMware Fusion来说吧，对比Parallels Desktop 17差得不是一点半点，同样是安装Linux–arm64，Parallels Desktop 17则是如丝般顺滑，绝不会出现因为内核的关系导致虚拟机无法启动。&lt;/p>
+&lt;p>其次Parallels Desktop 17最大的功能应该是安装Windows，在MacOS上玩游戏。我在14天试用期期间的体验只有一个词，「丝滑」。如果不是我在VMWare Fusion上将虚拟机启动成功了，估计也会为Parallels Desktop 17埋单。但老实说，这货的价格着实有点高，如果想拥有最好的使用体验还必须是订阅制。暂时我还用不上这些需求，我现在的需求只是需要启动几个Linux主机就好，所以VMware Fusion就能满足我了。&lt;/p>
+&lt;p>这篇笔记昨天就写好了，准备更新时我在B站上刚好看到一个视频说 VMware Fusion&lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup> 更新了，可以安装Win11-Arm，我就更新测试了一下。果然，新版本已经解决由于Linux内核的原因无法正确安装虚拟的问题，虽然只是测试了Debian 11，使用&lt;strong>debian-11.4.0-arm64-DVD-1.iso&lt;/strong>&lt;sup id="fnref:4">&lt;a href="#fn:4" class="footnote-ref" role="doc-noteref">4&lt;/a>&lt;/sup>这个镜像。至于Windows虚拟机我没有测试，这个不在我的需求范围内。&lt;/p>
+&lt;p>
+&lt;p>&lt;img src="https://iamlm.com/archives/waste-time-at-vmware-virtual-machine/image-20220807171634778_hu36072e19413b53c9e4d917673cb4d50c_340916_800x0_resize_q75_h2_lanczos_3.webp"
+loading="lazy"
+alt="image-20220807171634778" />&lt;/p>&lt;/p>
+&lt;p>虽然这篇笔记的内容已经过时，但我还是决定更新了，就算对别人来说没有帮助，但这毕竟是我折腾的一个过程，对于我来说这份笔记还是有存在的价值的，毕竟这是我浪费生命的又一代表作。&lt;/p>
+&lt;p>对了，VMware Fusion Player –Personal Use License 申请地址为：&lt;/p>
+&lt;p>&lt;a href="https://customerconnect.vmware.com/web/vmware/evalcenter?p=fusion-player-personal" target="_blank" rel="noopener">https://customerconnect.vmware.com/web/vmware/evalcenter?p=fusion-player-personal &lt;/a>，&lt;/p>
+&lt;p>如果点击进去后跳转到VMware国内节点的话，点击页面右上角导航栏的小地球切换语言为 &lt;strong>US&lt;/strong> 后重新进入上面这个地址即可。&lt;/p>
+&lt;p>END.&lt;/p>
+&lt;div class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1">
+&lt;p>&lt;a href="https://customerconnect.vmware.com/downloads/get-download?downloadGroup=FUS-PUBTP-2021H1" target="_blank" rel="noopener">https://customerconnect.vmware.com/downloads/get-download?downloadGroup=FUS-PUBTP-2021H1&lt;/a>&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:2">
+&lt;p>&lt;a href="https://cdimage.ubuntu.com/releases/20.04.2/release/ubuntu-20.04.2-live-server-arm64.iso" target="_blank" rel="noopener">https://cdimage.ubuntu.com/releases/20.04.2/release/ubuntu-20.04.2-live-server-arm64.iso&lt;/a>&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:3">
+&lt;p>&lt;a href="https://customerconnect.vmware.com/cn/downloads/get-download?downloadGroup=FUS-PUBTP-22H2" target="_blank" rel="noopener">https://customerconnect.vmware.com/cn/downloads/get-download?downloadGroup=FUS-PUBTP-22H2&lt;/a>&amp;#160;&lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:4">
+&lt;p>&lt;a href="https://cdimage.debian.org/debian-cd/current/arm64/iso-dvd/debian-11.4.0-arm64-DVD-1.iso" target="_blank" rel="noopener">https://cdimage.debian.org/debian-cd/current/arm64/iso-dvd/debian-11.4.0-arm64-DVD-1.iso&lt;/a>&amp;#160;&lt;a href="#fnref:4" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/div></description></item><item><title>这是一篇流水账-01</title><link>https://iamlm.com/archives/this-is-a-running-account-01/</link><pubDate>Sat, 09 Jul 2022 00:00:00 +0000</pubDate><guid>https://iamlm.com/archives/this-is-a-running-account-01/</guid><description>&lt;p>虽然戒烟已经两周多了，但我知道自己戒烟还未成功，最近两天想抽烟的感觉淡了点，头晕的情况也改善了些。其实现在也没什么好说的了，只能继续「坚持」与「加油」。&lt;/p>
 &lt;p>老婆说，“明明已经两周多啦，为什么还有想吸烟的想法？记得你上次戒烟不是这样的啊，一周后你就说没了想吸烟的想法。”&lt;/p>
 &lt;p>这个我真回答不了，因为我也不清楚到底是怎么个情况，反正只要我以后都不吸烟，总有戒掉的那一天。&lt;/p>
 &lt;h3 id="不吐不快">不吐不快&lt;/h3>
@@ -33,12 +94,4 @@
 &lt;li>&lt;strong>损友&lt;/strong>——当某人得知自己动了真格，是真的开始戒烟时，这人坏得很，直接从车里拿了包荷花递过来，“以后你抽的烟我包了，你戒什么烟？烟都戒了，做人还有什么乐趣？”哈哈哈～，这个朋友是真的可怜，如果自己真戒烟成功了，那么以后吸烟区估计只剩下那个单薄且孤独的身影了。&lt;/li>
 &lt;li>&lt;strong>喝两杯&lt;/strong>——又到周五啦，约起来。最近大伙都喜欢上吃烤鱼，一种无骨鱼，烤鱼配啤洒，绝搭，估计大伙喜欢烤鱼的原因与天气的火热想喝两杯冰镇啤酒有关。&lt;/li>
 &lt;li>&lt;strong>胡思乱想&lt;/strong>——最近发现自己与身边几个好兄弟的生活质量、思考方向有了很大的差距。物质上的差距问题不大，毕竟这个问题一直存在，但是思想这方面的差距有点难搞了。这样的想法我相信J仔也有，毕竟这是一个既明显又残酷的现实。&lt;/li>
-&lt;/ul></description></item><item><title>戒烟的第二天</title><link>https://iamlm.com/archives/the-second-day-of-quitting-smoking/</link><pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate><guid>https://iamlm.com/archives/the-second-day-of-quitting-smoking/</guid><description>&lt;p>最近想添置一台UPS，其原因是家里这个星期每天都会断一次电，一开始以为是自家线路出了问题，后来才知道是整幢楼都有这个情况，找物业了解，据说可能是供电线路，还在排查当中。这就很烦，查了两天还没查出个所以然来。因此家里的NAS每天都被强行断电关机，很是担心数据就这样没了。之前来电了NAS还会自动开机，但今天发现被强行断电关机后再通电不会自动开机了，很奇怪，明明设置都没有改过，为什么会这样子呢？&lt;/p>
-&lt;p>据说UPS可以不间断的给需要的设备供电，那么现在这个情况有必要入手一个来保护家里的NAS吗？懂这方面的大佬烦请指点一二。&lt;/p>
-&lt;h3 id="第二天">第二天&lt;/h3>
-&lt;ul>
-&lt;li>&lt;strong>休息&lt;/strong>——精神状态很差、很低迷，在办公室坐了半个小时，决定还是请个假回家休息一下。本想回家后睡一觉的，可躺床上刷B站，越刷越睡不着。&lt;/li>
-&lt;li>&lt;strong>泡茶&lt;/strong>——前段日子去表弟那拿了两饼生普，一饼老一饼新，间隔着泡来喝，很有一番滋味，一陈一鲜。终于明白为什么J仔可以将一老一新的生普混在一起泡，虽然还是不认同这样的做法。&lt;/li>
-&lt;li>&lt;strong>适应&lt;/strong>——新的电脑到了一段时间咯，第一次接触MacOS这个系统，只有一点点不适应而已，过渡期并没有想象中那么长，毕竟自己在Windows上常用的那些软件在MacOS上几乎都可以找到或有更好的替代品，得益于新电脑的性能，这些软件在新电脑上用得比以前舒服多了。&lt;/li>
-&lt;li>&lt;strong>差点破防&lt;/strong>——下午自己一个人在家，本想修复一下主题的BUG。以前碰到想不通问题就会点根烟慢慢想解决办法，可能就是因为这样，下午的时候差点就下楼买烟。意识到可能是因为这样，决定暂停折腾，什么事都等烟戒了后再说。&lt;/li>
 &lt;/ul></description></item></channel></rss>

@@ -1,4 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>老麦笔记</title><link>https://iamlm.com/</link><description>Recent content on 老麦笔记</description><language>zh-cn</language><lastBuildDate>Sun, 14 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://iamlm.com/index.xml" rel="self" type="application/rss+xml"/><item><title>「折腾记录」批量重命名</title><link>https://iamlm.com/archives/tossing-record-batch-renaming/</link><pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate><guid>https://iamlm.com/archives/tossing-record-batch-renaming/</guid><description>&lt;p>前段时间大家讨论笔记软件哪家强时，我一直在默默的使用着群晖家自带的Note Station，明知道Note Station对数据转换有很大的弊端，但想到哪个软件没有缺点的？所以对大家伙们的这个讨论我就一直处在观望状态，直到有小伙伴一直提及Logseq，这个曾经使用过的软件重新吸引了我的注意。&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>老麦笔记</title><link>https://iamlm.com/</link><description>Recent content on 老麦笔记</description><language>zh-cn</language><lastBuildDate>Fri, 26 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://iamlm.com/index.xml" rel="self" type="application/rss+xml"/><item><title>「Akismet」Wordpress里的一个神奇插件</title><link>https://iamlm.com/archives/a-magical-plugin-akismet-for-wordpress/</link><pubDate>Fri, 26 Aug 2022 00:00:00 +0000</pubDate><guid>https://iamlm.com/archives/a-magical-plugin-akismet-for-wordpress/</guid><description>&lt;p>以下内容纯属个人猜测与YY。&lt;/p>
+&lt;p>事情的起因是这样子的，大概是今年4月份吧，我的博客收到了十多条垃圾评论，其实之前每个月都会有，但没这个月多，又因为我开启了人工审核，所以这些垃圾评论根本是不会显示的。我心想这些垃圾评论我都要选中后才能删除，过程着实不够优雅，甚至觉得有那么一点点的麻烦，经过一番考虑后决定使用「Akismet」这个插件帮忙处理这些垃圾评论。可现在的结果反而成了我的困扰。&lt;/p>
+&lt;p>
+&lt;p>&lt;img src="https://iamlm.com/archives/a-magical-plugin-akismet-for-wordpress/2022-08-26-15.08.20_hu270bac29d0545eb941c775618d1ba8dc_1131393_800x0_resize_q75_h2_lanczos_3.webp"
+loading="lazy"
+alt="2022-08-26-15.08.20" />&lt;/p>&lt;/p>
+&lt;p>刚开启「Akismet」时还好，但也有一个可能是因为我是在4月底才开启这个插件的。老实说，我的小破站我一直都没关注过SEO这方面的事情，搜索引擎爱收录收录，不收录拉倒，从2020年重新开始折腾到现在都是这个心态。因此我相信我的小破站不会吸引到广告机器人，2022年4月前也证明了这一点。即便有广告评论也不多，2020年6月到2022年4月，大概地回想了一下，保守估计也就200条不到这个样子。&lt;/p>
+&lt;p>可现在呢，方便是方便了，不用自动审核了，只要点一下清空就可以将这些垃圾评论清理干净，但我没想到随之而来的却是这个结果，短短4个月的垃圾评论就相比之前翻了几倍。我思来想去为什么会多了这么垃圾评论，其中最让我怀疑的就是「Akismet」这个插件，因为这一切都是发生在我使用「Akismet」之后。&lt;/p>
+&lt;p>之前的垃圾评论基本都是国内的，有些广告评论甚至是根据你文章的内容而作出评论，让我把它评为垃圾评论的原因就是他的昵称与网址，我想这些都是人工推广的吧？当然偶尔还是有国外的，但IP地址显示也不是同一个段。现在呢，可以说全是国外的，且IP地址都是一个段的，内容一看就知道是那种机器人群发的。&lt;/p>
+&lt;p>那么问题来了，「Akismet」到底是清理垃圾评论的还是垃圾评论的制造者？反正我是不相信碰巧我一用「Akismet」，国外的广告机器人也正好盯上了我的小破站，一切都是那么的巧合。你相信吗？反正我是不相信，接下来我也会停用这个插件，看下停用后我的小破站还会不会再接收到这些广告机器人的推送。&lt;/p>
+&lt;p>我在想这么一个情况，当我使用了「Akismet」，我的小破站评论的入口就已经被广告机器人知道了，所以就算我现在停用了「Akismet」，机器人还是会继续向我的小破站继续推送，那么……&lt;/p>
+&lt;p>END.&lt;/p></description></item><item><title>「折腾记录」批量重命名</title><link>https://iamlm.com/archives/tossing-record-batch-renaming/</link><pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate><guid>https://iamlm.com/archives/tossing-record-batch-renaming/</guid><description>&lt;p>前段时间大家讨论笔记软件哪家强时，我一直在默默的使用着群晖家自带的Note Station，明知道Note Station对数据转换有很大的弊端，但想到哪个软件没有缺点的？所以对大家伙们的这个讨论我就一直处在观望状态，直到有小伙伴一直提及Logseq，这个曾经使用过的软件重新吸引了我的注意。&lt;/p>
 &lt;p>然而重新使用一段时间后，我还是决定放弃，哪怕Logseq的journals这个功能做得有多么的合我心意。&lt;/p>
 &lt;p>因为数据保存在iCloud上，而且是Markdown格式，将其复制到Obsidian的目录下就能直接使用，因为还没有找到将Note Station里数据导出来的方法，所以所谓的数据也就只有这两个月的生活日常。&lt;/p>
 &lt;p>Logseq保存的日记是以yyyy_MM_dd.md这种命名保存，Obsidian则是yyyy-MM-dd.md这种命名保存。有强迫症的我表示不能忍，批量改之。&lt;/p>
@@ -112,11 +123,4 @@ alt="image-20220807171634778" />&lt;/p>&lt;/p>
 &lt;li>&lt;strong>趣味运动会&lt;/strong>——参加了单位工会举办的趣味运动会，项目是“脚斗士”，其实这类运动应该让一些年轻小伙子上的，但内勤说想找一个「壮」的，就这样被直接提名了。说一下感受吧，三人一小组，因组织者没有经验，比赛进行得不算太顺利，但是同事们却比得很开心。这两年因为被各种大环境压抑着，大伙平时都显得有点消极。这次趣味运动会虽然简单，但是很好的让大伙都放松了一把，怪不得领导要求每个人都要参与进来了，的确有效果。&lt;/li>
 &lt;li>&lt;strong>流感&lt;/strong>——今天发现天天有点发烧，这已经近段时间家里的第三个病号了，先是爷爷奶奶，现在轮到天天，虽然病情不算严重，爷爷奶奶也处在好转期，但家里一下子这么多人生病还是很烦的。晚上向天天的老师报告了情况，老师说要有正规医院的康复证明天天才能回校上课。&lt;/li>
 &lt;li>&lt;strong>笔记软件&lt;/strong>——最近圈子里关于这个话题很多，我一开始抱的态度是适合自己就好，毕竟一个工具而已，功能都差不多的前提下选择一个适合自己的就好。但是昨天在老刘那里得到回复才得知原来群晖的笔记软件Note Station是不支持导出数据转换到其他软件上，只能导出数据导入到新的群晖上。裂开，我之前看到有个导出功能，以为是可以随意转换的，加上平时这个软件用着特别的顺手，所以顺其自然的就成了我的主力笔记工具。但是老刘说的那句「谁能用一辈子的群晖」瞬间让我也有了放弃的想法，这可咋整呢？脑瓜痛～&lt;/li>
-&lt;/ul></description></item><item><title>戒烟的第四天</title><link>https://iamlm.com/archives/the-fourth-day-of-quitting-smoking/</link><pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate><guid>https://iamlm.com/archives/the-fourth-day-of-quitting-smoking/</guid><description>&lt;p>今天差点就忍不住，早上的时候因为佩佩的事跟老妈顶了几句，搞得整天都烦躁得很，一烦躁就特别想抽烟，虽然不知道这种情况属不属于强行解释，但中午那会是真的差点没忍住。&lt;/p>
-&lt;p>妻子看在眼里，午饭时候帮他倒了杯冰镇的啤酒。虽然什么都没有说，但这很管用，看着在厨房忙活的妻子，瞬间觉得不能再让她失望了。坚持住～&lt;/p>
-&lt;h3 id="第四天">第四天&lt;/h3>
-&lt;ul>
-&lt;li>&lt;strong>考试&lt;/strong>——今天妻子又要网考，这个月考的第二个试，上周线下考了中级社工，考后估分有点不理想，虽然成绩还没出还有翻盘的机会，毕竟一些主观题给分自估可不准。今天是线上考X（她跟他说过，但他记不起来了），老实说，他不明白妻子，他情愿她什么都不去考，因为这样是真的太累了，一个月考两次试，下个月又要准备学术论文什么的，唉～&lt;/li>
-&lt;li>&lt;strong>啤酒&lt;/strong>——不知是不是最近天气太热的关系，最近啤酒喝得有点多了。很烦，虽然烟快戒掉，但酒却越喝越欢。现在睡觉前都要来一瓶，以前妻子都会说几句表示不满，现在可能是因为看在戒烟的份上，还陪着一起喝上两杯。&lt;/li>
-&lt;li>&lt;strong>勇气&lt;/strong>——今天得知J仔辞去原本不错的工作跑去GZ拼搏了，内心是真的佩服，如果是自己，真的没有这份勇气，没结婚前，总爱说那句「先成家后立业」；结婚后吧，有家庭了，不可以这么冲动，家里有老有小的；……；如此这般，其实就是懦弱罢了。&lt;/li>
 &lt;/ul></description></item></channel></rss>
